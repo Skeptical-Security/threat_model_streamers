@@ -1,6 +1,6 @@
 #  Threat model for streamers
 
-Threat model for the "new" hype and ways to protect 🧢
+Threat model for the "new" hype and ways to protect
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Skeptical-Security/threat_model_streamers?label=last%20update%3A)
 
